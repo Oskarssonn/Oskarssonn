@@ -2,7 +2,6 @@
 ![](https://github.com/Oskarssonn/Oskarssonn/blob/main/header.png?raw=true)
 
 #### I am amateur developer leaning while doing what I like to do.
-![I am amateur developer leaning while doing what I like to do.]
 
 Skills: LUA  / JS / HTML / CSS / MYSQL
 
