@@ -1,16 +1,16 @@
-### Hi there 👋
 
-<!--
-**Oskarssonn/Oskarssonn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### I am amateur developer leaning while doing what I like to do.
+![I am amateur developer leaning while doing what I like to do.](h)
 
-Here are some ideas to get you started:
+Skills: LUA  / JS / HTML / CSS / MYSQL
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on plugins for FiveM. 
+
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Oskarssonn)  
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Oskarssonn&show_icons=true)  
+
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=Oskarssonn)  
+
+![Profile views](https://gpvc.arturio.dev/Oskarssonn)  
