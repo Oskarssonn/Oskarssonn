@@ -1,6 +1,8 @@
 
+(master/header.png)
+
 #### I am amateur developer leaning while doing what I like to do.
-![I am amateur developer leaning while doing what I like to do.](h)
+![I am amateur developer leaning while doing what I like to do.]
 
 Skills: LUA  / JS / HTML / CSS / MYSQL
 
